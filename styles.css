@@ -1,0 +1,118 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #444040;
+   
+}
+
+header {
+    background: #000000;
+    color: #3700ff;
+    padding: 20px 0;
+    text-align: center;
+    
+}
+
+header .container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px 0;
+    text-align: center;
+    background-image: url(imagem/imagem.png);
+}
+
+section#descricao {
+    background: #606063;
+    color: #ffffff;
+}
+
+section#planos {
+    background: #606063;
+}
+
+.container h2 {
+    color: #ffffff;
+}
+
+.plano {
+    background: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.plano h3 {
+    margin: 0;
+}
+
+.plano button {
+    background: #100c53;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.plano button:hover {
+    background: #0e0799c2;
+}
+
+section#login form {
+    background: #fff;
+    padding: 20px;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 400px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(9, 11, 107);
+}
+
+section#login label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+section#login input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+section#login button {
+    background: rgb(228, 228, 228);
+    color: black ;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+section#login button:hover {
+    background: #6d6d6dc2;
+}
+
+footer {
+    background: #000000;
+    color: #3700ff;
+    padding: 10px 0;
+    text-align: center;
+}
+section#Roblox {
+    background: #000000;
+    color: #ffffff;
+}
